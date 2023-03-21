@@ -1,4 +1,4 @@
-# github-finder-web-app
+# list-your-house-web-app
 
 This was my first deployable web app using React Js, Firebase, and the Google Geocode API. I got to use the Firestore database and storage in Firebase for the first time, and integrate it into a more complex program.
 
